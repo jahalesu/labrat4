@@ -1,0 +1,17 @@
+C:\Users\user\Source\Repos\labrat4\bin\Debug\net6.0-windows\labrat3.exe
+C:\Users\user\Source\Repos\labrat4\bin\Debug\net6.0-windows\labrat3.deps.json
+C:\Users\user\Source\Repos\labrat4\bin\Debug\net6.0-windows\labrat3.runtimeconfig.json
+C:\Users\user\Source\Repos\labrat4\bin\Debug\net6.0-windows\labrat3.dll
+C:\Users\user\Source\Repos\labrat4\bin\Debug\net6.0-windows\labrat3.pdb
+C:\Users\user\Source\Repos\labrat4\obj\Debug\net6.0-windows\labrat3.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\labrat4\obj\Debug\net6.0-windows\labrat3.Form1.resources
+C:\Users\user\Source\Repos\labrat4\obj\Debug\net6.0-windows\labrat3.csproj.GenerateResource.cache
+C:\Users\user\Source\Repos\labrat4\obj\Debug\net6.0-windows\labrat3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Source\Repos\labrat4\obj\Debug\net6.0-windows\labrat3.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\labrat4\obj\Debug\net6.0-windows\labrat3.AssemblyInfo.cs
+C:\Users\user\Source\Repos\labrat4\obj\Debug\net6.0-windows\labrat3.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\labrat4\obj\Debug\net6.0-windows\labrat3.dll
+C:\Users\user\Source\Repos\labrat4\obj\Debug\net6.0-windows\refint\labrat3.dll
+C:\Users\user\Source\Repos\labrat4\obj\Debug\net6.0-windows\labrat3.pdb
+C:\Users\user\Source\Repos\labrat4\obj\Debug\net6.0-windows\labrat3.genruntimeconfig.cache
+C:\Users\user\Source\Repos\labrat4\obj\Debug\net6.0-windows\ref\labrat3.dll
